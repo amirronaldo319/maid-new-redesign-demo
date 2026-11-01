@@ -1,0 +1,12 @@
+// Condensed from maidnew.ca home page FAQ and /terms-of-service/.
+export const faqs = [
+  { q: 'How does pricing work?', a: 'Prices are flat and set by home size, so you know the cost before you book. Starting prices are published (before GST), and your quote gives one flat price for your home. You approve it before we book. If a job needs more than you booked, Maid New gets in touch first and never bills for cleaning you didn’t ask for.' },
+  { q: 'What is included in a visit, and what isn’t?', a: 'Every visit follows one room-by-room checklist: floors, bathrooms, kitchen and dusting. A standard house clean doesn’t include making beds or cleaning inside the oven, fridge or cabinets, but each can be added. Move-out cleans include oven, fridge and cabinet interiors. Senior home cleaning excludes personal care, medication help, meal prep and errands.' },
+  { q: 'How often can I schedule a cleaning?', a: 'One-time, weekly, bi-weekly or monthly. Plan visits cost less than a one-time clean: 20% less weekly, 15% bi-weekly, 5% monthly. If it has been three months or more since a professional clean, the first visit is booked as a deep clean.' },
+  { q: 'Do I need to supply anything?', a: 'No. Maid New brings the supplies and equipment. Please empty the oven, fridge and cabinets before an inside-appliance clean.' },
+  { q: 'Can you clean a home with pets?', a: 'Yes, pets are welcome. Mention shedding pets when you request your price and they’re counted in the flat price.' },
+  { q: 'What happens after I request a quote?', a: 'A person replies with one flat price for your home. You approve it, your card goes on file, and the first clean is scheduled. You’re charged only after each completed clean, and you receive a receipt every time.' },
+  { q: 'Which areas do you serve?', a: 'Red Deer, with no travel fee, plus ten nearby towns. Outside Red Deer a flat per-visit travel fee applies by zone ($20, $30 or $55). Ponoka, Rimbey and Delburne are outside the service area.' },
+  { q: 'What is the cancellation policy?', a: 'Please call, text or email as early as you can. Cancelling less than 48 hours before your clean, or being unable to get in, is billed at 50% of the quoted price.' },
+  { q: 'How fast will I hear back?', a: 'The current Maid New site advertises quotes in under 30 minutes. Business hours are Monday to Saturday, 9 a.m. to 5 p.m. Commercial quotes follow within 24 hours of a free walkthrough.' },
+]
